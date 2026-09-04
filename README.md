@@ -19,7 +19,7 @@ I'm the founder of [Pawssible](https://www.pawssible.ai), a pet relocation platf
 
 - **[Pawssible](https://www.pawssible.ai)** — pet relocation from Dubai, planned to the day. Four corridors live, every rule sourced to the authority's own page, vet-reviewed, every price published.
 - **[PTE Superior Trainer](https://main.d363jbdjvwp4wn.amplifyapp.com/#/practice)** — PTE Academic practice built around Australia's Superior English thresholds, timed across all four sections.
-- **Parley** — a real-time AI copilot for cold calls. Live objection rebuttals, the next line to say, and coaching on a discreet overlay for sales and real-estate reps. Electron, TypeScript, microservices.
+- **[parley](https://github.com/adensvaz/parley)** — real-time AI copilot for cold calls. Live objection rebuttals, the next line to say, and coaching on a discreet overlay. A 13-service TypeScript monorepo: copilot, telephony, speech-to-text, CRM, billing, compliance, identity, and an Electron desktop app.
 - **[sentinel-hyperliquid](https://github.com/adensvaz/sentinel-hyperliquid)** — three uncorrelated crypto-futures strategies with live paper-trading dashboards and the evaluation layer behind them.
 - **[meridian-underwriting](https://github.com/adensvaz/meridian-underwriting)** — AI commercial real estate underwriting for the UAE, with provenance on every extracted value.
 - **[rfp-tracker](https://github.com/adensvaz/rfp-tracker)** — finds E-Rate procurement opportunities in USAC open data before competitors do.

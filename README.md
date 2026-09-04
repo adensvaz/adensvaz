@@ -8,7 +8,7 @@ I'm the founder of [Pawssible](https://www.pawssible.ai), a pet relocation platf
 
 **What I work on**
 
-- AI and LLM products: agentic systems, RAG, document extraction with provenance, rules-to-timeline engines
+- AI and LLM products: agentic systems, RAG, real-time copilots, document extraction with provenance, rules-to-timeline engines
 - Model evaluation: paper-trading validation → walk-forward testing → drawdown scoring → post-launch monitoring
 - Payments and settlement: order management, liquidity routing, on and off ramps, atomic settlement, CBDC
 - Digital assets: centralised exchanges, custody, staking, stablecoin issuance, Layer-3 and EVM chains
@@ -19,7 +19,8 @@ I'm the founder of [Pawssible](https://www.pawssible.ai), a pet relocation platf
 
 - **[Pawssible](https://www.pawssible.ai)** — pet relocation from Dubai, planned to the day. Four corridors live, every rule sourced to the authority's own page, vet-reviewed, every price published.
 - **[PTE Superior Trainer](https://main.d363jbdjvwp4wn.amplifyapp.com/#/practice)** — PTE Academic practice built around Australia's Superior English thresholds, timed across all four sections.
-- **[Sentinal_Hyperliquid](https://github.com/adensvaz/Sentinal_Hyperliquid)** — three uncorrelated crypto-futures strategies with live paper-trading dashboards and the evaluation layer behind them.
+- **Parley** — a real-time AI copilot for cold calls. Live objection rebuttals, the next line to say, and coaching on a discreet overlay for sales and real-estate reps. Electron, TypeScript, microservices.
+- **[sentinel-hyperliquid](https://github.com/adensvaz/sentinel-hyperliquid)** — three uncorrelated crypto-futures strategies with live paper-trading dashboards and the evaluation layer behind them.
 - **[meridian-underwriting](https://github.com/adensvaz/meridian-underwriting)** — AI commercial real estate underwriting for the UAE, with provenance on every extracted value.
 - **[rfp-tracker](https://github.com/adensvaz/rfp-tracker)** — finds E-Rate procurement opportunities in USAC open data before competitors do.
 

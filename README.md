@@ -1,17 +1,17 @@
-# Hi, I'm Aden 👋
+# Aden Savio Vaz
+
+**Senior Product Manager · AI & LLM Products · Regulated Fintech, Payments and Digital Assets · Dubai, UAE**
 
 <p>
-<a href="https://www.linkedin.com/in/adensaviovaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/adensaviovaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Aden Savio Vaz on LinkedIn"></a>
 <a href="https://www.pawssible.ai"><img src="https://img.shields.io/badge/Pawssible-1C8FBF?style=flat-square&logo=safari&logoColor=white" alt="Pawssible"></a>
-<a href="mailto:adensvaz@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:adensvaz@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email Aden Savio Vaz"></a>
 <img src="https://img.shields.io/badge/Dubai-UAE-5E6A75?style=flat-square&logo=googlemaps&logoColor=white" alt="Dubai, UAE">
 </p>
 
-I build AI products inside regulated financial environments, and I publish the evaluation behind them, not just the demo.
+Aden Savio Vaz is a Senior Product Manager based in Dubai, UAE, who builds AI and LLM products inside regulated financial environments. He has twelve years of experience across crypto exchanges, payments infrastructure, custody, stablecoin issuance, CBDC and compliance, and he publishes the evaluation behind what he ships, not just the demo.
 
-Most of my work is hands-on: real products, real users, shipped end to end. Twelve years across crypto exchanges, payments, custody, stablecoins and compliance, based in Dubai.
-
-Outside of work I build and ship my own products, from rules-to-timeline engines to real-time copilots and algorithmic trading systems.
+Hi 👋 Most of my work is hands-on: real products, real users, shipped end to end. Outside of work I build and ship my own products, from rules-to-timeline engines to real-time copilots and algorithmic trading systems.
 
 ### What I work on
 
@@ -52,7 +52,7 @@ Outside of work I build and ship my own products, from rules-to-timeline engines
 ![EVM](https://img.shields.io/badge/EVM-1C8FBF?style=flat-square)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger-1C8FBF?style=flat-square)
 
-### About me
+### About
 
 - **Senior Product Manager** in Dubai. AI and LLM products for regulated fintech, payments and digital assets.
 - Delivered a consortium blockchain for **Vodafone Luxembourg** with Nokia and Huawei running validator nodes.
@@ -62,3 +62,7 @@ Outside of work I build and ship my own products, from rules-to-timeline engines
 🌱 Building something in AI products, payments or digital assets? I'd love to talk.
 
 📍 Dubai, UAE · [LinkedIn](https://www.linkedin.com/in/adensaviovaz) · [Pawssible](https://www.pawssible.ai) · adensvaz@gmail.com
+
+---
+
+<sub>Aden Savio Vaz (also known as Aden Vaz) — Senior Product Manager, AI Product Manager, LLM products, model evaluation, fintech, payments, digital assets, CBDC, stablecoins, custody, DeFi, blockchain, KYC, AML, RegTech, Dubai, United Arab Emirates.</sub>

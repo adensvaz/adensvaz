@@ -22,6 +22,14 @@ Hi 👋 Most of my work is hands-on: real products, real users, shipped end to e
 - **Permissioned blockchain** — Hyperledger and Corda consortiums, validator onboarding, smart contracts
 - **Regulated delivery** — KYC, AML, sanctions screening, functional specs, vendor governance
 
+### Currently building: Moxcrew
+
+Moxcrew is my private project exploring how teams of AI agents can coordinate software work—from planning and task handoffs to building, review and human approval.
+
+I'm using it to explore practical product questions: how to keep agents focused, make their work reviewable, recover from failed tasks, and manage context and model costs. It is an active development project, not a claim of fully autonomous production delivery.
+
+The source code and implementation details remain private. The public projects below offer a separate view of my hands-on AI experiments.
+
 ### Projects
 
 | Project | What it is |

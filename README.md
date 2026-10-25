@@ -24,11 +24,15 @@ Hi 👋 Most of my work is hands-on: real products, real users, shipped end to e
 
 ### Currently building: Moxcrew
 
-Moxcrew is my private project exploring how teams of AI agents can coordinate software work—from planning and task handoffs to building, review and human approval.
+Moxcrew is a private project I’m building to explore how AI agents can work together on software without losing track of the plan—or trusting each other’s output blindly.
 
-I'm using it to explore practical product questions: how to keep agents focused, make their work reviewable, recover from failed tasks, and manage context and model costs. It is an active development project, not a claim of fully autonomous production delivery.
+Its core is Git-native: tasks, dependencies and handover notes live in version-controlled files. Rather than passing everything through one long chat, agents take on bounded tasks, work in isolated branches and leave evidence another agent can review. Planning, building and integration are separate responsibilities, with human approval for consequential actions.
 
-The source code and implementation details remain private. The public projects below offer a separate view of my hands-on AI experiments.
+What interests me most is what happens when things go wrong: an agent stops halfway through, forgets context, or produces something that looks finished but doesn’t meet the requirements.
+
+That’s the product problem I’m exploring with Moxcrew: making AI work inspectable, recoverable and easier to trust—not just making it run faster.
+
+Moxcrew is under active development. Its source code and implementation details remain private; this is a high-level overview, not a claim of fully autonomous production delivery.
 
 ### Projects
 
